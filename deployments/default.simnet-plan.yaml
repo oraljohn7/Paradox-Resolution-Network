@@ -55,6 +55,11 @@ plan:
             path: contracts/paradox-detection.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: paradox-resolution-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/paradox-resolution-nft.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: resolution-management
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/resolution-management.clar
