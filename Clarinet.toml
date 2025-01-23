@@ -10,6 +10,11 @@ path = 'contracts/paradox-detection.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.paradox-resolution-nft]
+path = 'contracts/paradox-resolution-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.resolution-management]
 path = 'contracts/resolution-management.clar'
 clarity_version = 2
